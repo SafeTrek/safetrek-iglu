@@ -12,7 +12,7 @@
 
   "properties": {
 
-    "name": {
+    "item": {
       "type": "string"
     },
 
