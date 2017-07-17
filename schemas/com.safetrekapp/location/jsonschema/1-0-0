@@ -16,6 +16,9 @@
     },
     "section": {
       "type": "string"
+    },
+    "position": {
+      "type": "number"
     }
   },
 
