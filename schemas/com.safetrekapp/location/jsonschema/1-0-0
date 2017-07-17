@@ -13,6 +13,9 @@
 
     "location": {
       "type": "string"
+    },
+    "section": {
+      "type": "string"
     }
   },
 
