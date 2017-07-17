@@ -6,7 +6,7 @@
     "format": "jsonschema",
     "version": "1-0-0"
   },
-
+  "title": "viewed_carousel_item",
   "type": "object",
 
   "properties": {
