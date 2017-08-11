@@ -11,13 +11,7 @@
 
   "properties": {
 
-    "application": {
-      "type": "string"
-    }
     "version": {
-      "type": "string"
-    },
-    "environment": {
       "type": "string"
     }
   },
